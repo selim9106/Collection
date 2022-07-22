@@ -1,21 +1,712 @@
 let beyoncediscography = [
+             /* ------------------------10. Renaissance ------------------------ */
+    {
+        albumName: "Renaissance",
+        releaseYear: 2022,
+        albumCover: "/assets/images/pics/beyonce-renaissance-numero-magazine.png",
+        albumLength: "",
+    
+        albumLinks: [
+          {
+            Link: "https://shop.spotify.com/fr/artist/6vWDO969PvNqNYHIOW5v0m/product/renaissance-digital-album?utm_medium=app&utm_source=spotify&utm_term=00a46600583999e3587503d26b51d8e45eec5401e98f61b772f147",
+            support: "Spotify",
+          },
+          {
+            Link: "https://music.apple.com/us/album/renaissance/1630005298",
+            support: "Apple Music",
+          },
+          { 
+            Link: "https://www.deezer.com/fr/album/337778727",
+            support: "Deezer"
+            },
+          { 
+            Link: "https://tidal.com/browse/album/238806276",
+            support: "Tidal"
+            },
+        ],
+    
+        trackListing: [
+          {
+            trackTitle: "I'm That Girl",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Cozy",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Alien Superstar",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Cuff It",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Energy",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Break My Soul",
+            trackTiming: 278,
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Church Girl",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Plastic Off The Sofa",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Virgo's Groove",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Move",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Heated",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Thique",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "All Up In Your Mind",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "America Has A Problem",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Pure/Honey",
+            trackTiming: "",
+            trackFeaturing: "",
+          },
+          {
+            trackTitle: "Summer Renaissance",
+            trackTiming: "",
+            trackFeaturing: "",
+          }
+          
+        ],
+      },
+             /* ------------------------9. The Lion King ------------------------ */
+
+  {
+    albumName: "The Lion King: The Gift (Deluxe Edition)",
+    releaseYear: 2020,
+    albumCover: "/assets/images/pics/R-17627503-1614524714-5452.jpg",
+    albumLength: "",
+
+    albumLinks: [
+      {
+        Link: "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ?si=0XiTgMA9RlKlcwvL2Rg9mw",
+        support: "Spotify",
+      },
+      {
+        Link: "https://music.apple.com/us/album/the-lion-king-the-gift-deluxe-edition/1525559064",
+        support: "Apple Music",
+      },
+      { 
+        Link: "https://deezer.page.link/NaKiejSk2EjqB4qv5",
+        support: "Deezer"
+        },
+      { 
+        Link: "https://tidal.com/browse/album/150379405",
+        support: "Tidal"
+        },
+    ],
+
+    trackListing: [
+      {
+        trackTitle: "Bigger",
+        trackTiming: 226,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Find Your Way Back",
+        trackTiming: 162,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Don't jealous Me",
+        trackTiming: 156,
+        trackFeaturing: "Tekno, Lord Afrixana, Mr Eazi & Yemi Alade",
+      },
+      {
+        trackTitle: "Ja Ara E",
+        trackTiming: 190,
+        trackFeaturing: "Burna Boy",
+      },
+      {
+        trackTitle: "Nile",
+        trackTiming: 107,
+        trackFeaturing: "Kendrick Lamar",
+      },
+      {
+        trackTitle: "Mood 4 Ever",
+        trackTiming: 272,
+        trackFeaturing: "Jay-Z, Childish Gambino & Oumou Sangaré",
+      },
+      {
+        trackTitle: "Water",
+        trackTiming: 153,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Browk Skin Girl",
+        trackTiming: 248,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Keys To The Kingdom",
+        trackTiming: 199,
+        trackFeaturing: "Mr Eazi",
+      },
+      {
+        trackTitle: "Already",
+        trackTiming: 223,
+        trackFeaturing: "Shatta Wale & Major Lazer",
+      },
+      {
+        trackTitle: "Otherside",
+        trackTiming: 220,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "My Power",
+        trackTiming: 260,
+        trackFeaturing: "Nija, Busiswa, Yemi Alade, Tierra Whack, Moonchild Sanelly & DJ Lag",
+      },
+      {
+        trackTitle: "Scar",
+        trackTiming: 187,
+        trackFeaturing: "O70 Shake & Jessie Reyez",
+      },
+      {
+        trackTitle: "Spirit",
+        trackTiming: 277,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Black Parade - Extended Version",
+        trackTiming: 316,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Find Your Way Back (Melo-X Remix)",
+        trackTiming: 216,
+        trackFeaturing: "Melo-X",
+      },
+      {
+        trackTitle: "Black Parade",
+        trackTiming: 281,
+        trackFeaturing: "O70 Shake & Jessie Reyez",
+      },
+      
+    ],
+  },
+              /* ------------------------8. Homecoming ------------------------ */
+
+  {
+    albumName: "Homecoming: The Live Album",
+    releaseYear: 2019,
+    albumCover: "/assets/images/pics/550x550.jpg",
+    albumLength: "",
+
+    albumLinks: [
+      {
+        Link: "hhttps://open.spotify.com/album/35S1JCj5paIfElT2GODl6x?si=7a2nZsoOT6CdRKndUL2iRA",
+        support: "Spotify",
+      },
+      {
+        Link: "https://music.apple.com/us/album/homecoming-the-live-album/1459930448",
+        support: "Apple Music",
+      },
+      { 
+        Link: "https://deezer.page.link/LvTL1pwmhjs5u127A",
+        support: "Deezer"
+        },
+      { 
+        Link: "https://tidal.com/browse/album/107780086",
+        support: "Tidal"
+        },
+    ],
+
+    trackListing: [
+      {
+        trackTitle: "Welcome",
+        trackTiming: 196,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Crazy In Love",
+        trackTiming: 167,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Freedom",
+        trackTiming: 114,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Lift Ev'ry voice and Sing",
+        trackTiming: 129,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Formation",
+        trackTiming: 266,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "So Much Damn Swag",
+        trackTiming: 59,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Sorry",
+        trackTiming: 393,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Kitty kat",
+        trackTiming: 42,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Bow Down",
+        trackTiming: 97,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "I Been On",
+        trackTiming: 160,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Drunk In Love",
+        trackTiming: 254,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Diva",
+        trackTiming: 165,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Flawless/Feelink Myself",
+        trackTiming: 238,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Top Off",
+        trackTiming: 82,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "7/11",
+        trackTiming: 184,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Bug A Boo Roll Call - Interlude",
+        trackTiming: 117,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Party",
+        trackTiming: 228,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Don't Hurt Yourself",
+        trackTiming: 256,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "I Care",
+        trackTiming: 248,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Partition",
+        trackTiming: 138,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Yoncé",
+        trackTiming: 68,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Mi Gente",
+        trackTiming: 176,
+        trackFeaturing: "J Balvin & Willy William",
+      },
+      {
+        trackTitle: "Baby Boy",
+        trackTiming: 92,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "You Don't Love Me (No, No, No)",
+        trackTiming: 71,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Hold Up",
+        trackTiming: 46,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Countdown",
+        trackTiming: 103,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Check On It",
+        trackTiming: 76,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Deja Vu",
+        trackTiming: 289,
+        trackFeaturing: "Jay-Z",
+      },
+      {
+        trackTitle: "The Bzzzz Drumline - Interlude",
+        trackTiming: 190,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Run The World (Girls)",
+        trackTiming: 233,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Lose My Breath",
+        trackTiming: 90,
+        trackFeaturing: "Kelly Rowland & Michelle Williams",
+      },
+      {
+        trackTitle: "Say My Name",
+        trackTiming: 111,
+        trackFeaturing: "Kelly Rowland & Michelle Williams",
+      },
+      {
+        trackTitle: "Soldier",
+        trackTiming: 131,
+        trackFeaturing: "Kelly Rowland & Michelle Williams",
+      },
+      {
+        trackTitle: "Get Me Bodied",
+        trackTiming: 263,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Single Ladies (Put A Ring On It)",
+        trackTiming: 207,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Lift Ev'ry Voice and Sing (Blue's Version)",
+        trackTiming: 102,
+        trackFeaturing: "Blue Ivy",
+      },
+      {
+        trackTitle: "Love On Top",
+        trackTiming: 227,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Shining (Thank You)",
+        trackTiming: 159,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Before I Let Go",
+        trackTiming: 240,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "I Been On",
+        trackTiming: 144,
+        trackFeaturing: "",
+      },
+      
+    ],
+  },
+          /* ------------------------7. Lemonade ------------------------ */
+
+  {
+    albumName: "Lemonade",
+    releaseYear: 2016,
+    albumCover: "/assets/images/pics/18591-BEYONCE-LEMONADE-LP.jpg",
+    albumLength: "",
+
+    albumLinks: [
+      {
+        Link: "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF?si=sTkzN8GZRMumkIR51JLycQ",
+        support: "Spotify",
+      },
+      {
+        Link: "https://music.apple.com/us/album/lemonade/1460430561",
+        support: "Apple Music",
+      },
+      { 
+        Link: "https://deezer.page.link/e5jyQ7HDv4ynqFpE7",
+        support: "Deezer"
+        },
+      { 
+        Link: "https://tidal.com/browse/album/597278563",
+        support: "Tidal"
+        },
+    ],
+
+    trackListing: [
+      {
+        trackTitle: "Pray You Catch Me",
+        trackTiming: 195,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Hold Up",
+        trackTiming: 221,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Don't Hurt Yourself",
+        trackTiming: 233,
+        trackFeaturing: "Jack White",
+      },
+      {
+        trackTitle: "Sorry",
+        trackTiming: 332,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "6 Inch",
+        trackTiming: 260,
+        trackFeaturing: "The Weeknd",
+      },
+      {
+        trackTitle: "Daddy Lessons",
+        trackTiming: 187,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Love Drought",
+        trackTiming: 337,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Sandcastles",
+        trackTiming: 182,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Forward",
+        trackTiming: 79,
+        trackFeaturing: "James Blake",
+      },
+      {
+        trackTitle: "Freedom",
+        trackTiming: 289,
+        trackFeaturing: "Kendrick Lamar",
+      },
+      {
+        trackTitle: "All Night",
+        trackTiming: 322,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Formation",
+        trackTiming: 206,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Sorry (original Demo)",
+        trackTiming: 204,
+        trackFeaturing: "",
+      },
+      
+    ],
+  },
+      /* ------------------------6. Beyoncé (Platinum Edition) ------------------------ */
+
+  {
+    albumName: "Beyoncé (Platinum Edition)",
+    releaseYear: 2013,
+    albumCover: "/assets/images/pics/BeyoncéPlatinumEditionCover.png",
+    albumLength: "",
+
+    albumLinks: [
+      {
+        Link: "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu?si=G6dWDMJQSUSkmr9R8fZBHQ",
+        support: "Spotify",
+      },
+      {
+        Link: "https://music.apple.com/us/album/beyonc%C3%A9-platinum-edition/939775882",
+        support: "Apple Music",
+      },
+      { 
+        Link: "https://deezer.page.link/S4vUe51VC5pQTGLa7",
+        support: "Deezer"
+        },
+      { 
+        Link: "https://tidal.com/browse/track/37936033",
+        support: "Tidal"
+        },
+    ],
+
+    trackListing: [
+      {
+        trackTitle: "Pretty Hurts",
+        trackTiming: 257,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Haunted",
+        trackTiming: 369,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Drunk In Love",
+        trackTiming: 323,
+        trackFeaturing: "Jay-Z",
+      },
+      {
+        trackTitle: "Blow",
+        trackTiming: 309,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "No Angel",
+        trackTiming: 228,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Partition",
+        trackTiming: 319,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Jealous",
+        trackTiming: 184,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Rocket",
+        trackTiming: 391,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Mine",
+        trackTiming: 378,
+        trackFeaturing: "Drake",
+      },
+      {
+        trackTitle: "XO",
+        trackTiming: 215,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "***Flawless",
+        trackTiming: 250,
+        trackFeaturing: "Chimamanda Nogzi Adichie",
+      },
+      {
+        trackTitle: "Superpower",
+        trackTiming: 276,
+        trackFeaturing: "Frank Ocean",
+      },
+      {
+        trackTitle: "Heaven",
+        trackTiming: 230,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Blue",
+        trackTiming: 266,
+        trackFeaturing: "Blue Ivy",
+      },
+      {
+        trackTitle: "7/11",
+        trackTiming: 193,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Flawless Remix",
+        trackTiming: 234,
+        trackFeaturing: "Nicki Minaj",
+      },
+      {
+        trackTitle: "Drunk In Love Remix",
+        trackTiming: 395,
+        trackFeaturing: "Jay-Z & Kanye West",
+      },
+      {
+        trackTitle: "Ring Off",
+        trackTiming: 180,
+        trackFeaturing: "",
+      },
+      {
+        trackTitle: "Blow Remiw",
+        trackTiming: 309,
+        trackFeaturing: "Pharrell Williams",
+      },
+      {
+        trackTitle: "Standing On The Sun Remix",
+        trackTiming: 273,
+        trackFeaturing: "Mr. Vegas",
+      }
+    ],
+  },
   /* ------------------------------------5. 4 ---------------------------------------- */
 
   {
     albumName: "4",
     releaseYear: 2011,
-    albumCover: "assetsimagespics\0886443341579_600.jpg",
-    albumLength: 5039,
+    albumCover: "/assets/images/pics/0886443341579_600.jpg",
+    albumLength: "",
 
     albumLinks: [
       {
-        spotifyLink:
-          "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe?si=1_-U5v25Ts2v3hwXlLehEg",
-        applemusicLink:
-          "https://music.apple.com/us/album/4-expanded-edition/626204707",
-        deezerLink: "https://deezer.page.link/2p1Je4D1UtrUSL7p8",
-        tidalLink: "https://tidal.com/browse/album/13280448",
+        Link: "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe?si=1_-U5v25Ts2v3hwXlLehEg",
+        support: "Spotify",
       },
+      {
+        Link: "https://music.apple.com/us/album/4-expanded-edition/626204707",
+        support: "Apple Music",
+      },
+      { 
+        Link: "https://deezer.page.link/2p1Je4D1UtrUSL7p8",
+        support: "Deezer"
+        },
+      { 
+        Link: "https://tidal.com/browse/album/13280448",
+        support: "Tidal"
+        },
     ],
 
     trackListing: [
@@ -45,124 +736,78 @@ let beyoncediscography = [
         trackFeaturing: "André 3000",
       },
       {
-        trackTitle: "Rather",
-        trackTiming: 251,
+        trackTitle: "Rather Die Young",
+        trackTiming: 222,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Broken-Hearted Girl",
-        trackTiming: 192,
+        trackTitle: "Start Over",
+        trackTiming: 199,
         trackFeaturing: "",
       },
       {
-        trackTitle: "If I Were a Boy/ You Oughta Know",
-        trackTiming: 316,
+        trackTitle: "Love on Top",
+        trackTiming: 267,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Diva",
-        trackTiming: 179,
+        trackTitle: "Countdown",
+        trackTiming: 212,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Radio",
-        trackTiming: 123,
+        trackTitle: "End Of Time",
+        trackTiming: 223,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Ego",
-        trackTiming: 94,
-        trackFeaturing: "Kanye West",
-      },
-      {
-        trackTitle: "Hello",
-        trackTiming: 217,
+        trackTitle: "I Was Here",
+        trackTiming: 239,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Baby Boy",
-        trackTiming: 189,
+        trackTitle: "Lay Up Under Me",
+        trackTiming: 253,
         trackFeaturing: "",
       },
       {
-        trackTitle: "You Don't Love Me, No No No",
-        trackTiming: 94,
+        trackTitle: "Schoolin' Life",
+        trackTiming: 293,
         trackFeaturing: "",
       },
       {
-        trackTitle: "Irreplaceable",
-        trackTiming: 304,
+        trackTitle: "Dance For You",
+        trackTiming: 377,
         trackFeaturing: "",
-      },
-      {
-        trackTitle: "Check On It",
-        trackTiming: 128,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Bootylicious",
-        trackTiming: 50,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Upgrade U",
-        trackTiming: 135,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Say My Name",
-        trackTiming: 139,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "At Last",
-        trackTiming: 179,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Listen",
-        trackTiming: 202,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "At Last",
-        trackTiming: 179,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Single Ladies (Put a Ring on It)",
-        trackTiming: 262,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Halo",
-        trackTiming: 391,
-        trackFeaturing: "",
-      },
-      {
-        trackTitle: "Outro",
-        trackTiming: 118,
-        trackFeaturing: "",
-      },
+      }
     ],
   },
-  /* ------------------------------------4. I Am... Wolrd Tour ---------------------------------------- */
+  /* ------------------------4. I Am... Wolrd Tour ------------------------ */
 
   {
     albumName: "I Am... Wolrd Tour",
     releaseYear: 2010,
-    albumCover: "assetsimagespics\716k8snaESL._SL1500_.jpg",
-    albumLength: 5696,
+    albumCover: "assets/images/pics/716k8snaESL._SL1500_.jpg",
+    albumLength: "",
 
     albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ?si=pSi4B4_4Spewmc8rw7wtCw",
-        applemusicLink:
-          "https://music.apple.com/us/album/i-am-world-tour/399850850",
-        deezerLink: "https://deezer.page.link/AA7qT6rmktsYWZ8u9",
-        tidalLink: "https://tidal.com/browse/album/4905550",
-      },
+    {
+        link:"https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ?si=pSi4B4_4Spewmc8rw7wtCw",
+        support: "Spotify"
+    },
+
+    {
+        link:"https://music.apple.com/us/album/i-am-world-tour/399850850",
+        support: "Apple Music",
+    },
+    {
+        link: "https://deezer.page.link/AA7qT6rmktsYWZ8u9",
+        support: "Tidal"
+    },
+    {
+        link: "https://tidal.com/browse/album/4905550",
+        support: "Deezer",
+    }
     ],
 
     trackListing: [
@@ -293,24 +938,29 @@ let beyoncediscography = [
       },
     ],
   },
-  /* ------------------------------------3. I am ... Sasha Fierce ---------------------------------------- */
+  /* -----------------------3. I am ... Sasha Fierce ----------------------------- */
 
   {
     albumName: "I Am ... Sasha Fierce (Platinum Edition)",
     releaseYear: 2008,
-    albumCover:
-      "C:UsersselimOneDriveBureauBecodeCollectionassetsimagespics\1200x1200.jpg",
-    albumLength: 4469,
+    albumCover: "/assets/images/pics/1200x1200.jpg",
+    albumLength: "",
 
     albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9?si=jZsVm-ktSSG9z5r963LZgQ",
-        applemusicLink:
-          "https://music.apple.com/us/album/i-am-sasha-fierce-deluxe-version/295783816",
-        deezerLink: "https://deezer.page.link/DhV1Ch8esWFhAHXa8",
-        tidalLink: "https://tidal.com/browse/album/3147463",
-      },
+    {
+        link:"https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9?si=jZsVm-ktSSG9z5r963LZgQ",
+        support: "Spotify"},
+    {
+        link:"https://music.apple.com/us/album/i-am-sasha-fierce-deluxe-version/295783816",
+        support: "Apple Music"
+    },
+    {
+        link: "https://deezer.page.link/DhV1Ch8esWFhAHXa8",
+        support: "Deezer"},
+    {
+        link: "https://tidal.com/browse/album/3147463",
+        support: "Tidal"}
+      
     ],
 
     trackListing: [
@@ -421,19 +1071,24 @@ let beyoncediscography = [
   {
     albumName: "B'Day",
     releaseYear: 2006,
-    albumCover:
-      "C:UsersselimOneDriveBureauBecodeCollectionassetsimagespicsBeyonce_-_B'Day_(Deluxe)_(cover).png",
-    albumLength: 4150,
+    albumCover: "/assets/images/pics/Beyonce_-_B'Day_(Deluxe)_(cover).png",
+    albumLength: "",
 
-    albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp?si=cRaoSfOuSCyNlm6Lt7G1pA",
-        applemusicLink:
-          "https://music.apple.com/us/album/bday-deluxe-edition/261707051",
-        deezerLink: "https://deezer.page.link/X6ZG45NvUPjMZtcTA",
-        tidalLink: "https://tidal.com/browse/album/3347090",
-      },
+    albumLinks:
+    [
+        {
+            link:"https://open.spotify.com/album/1L6sJLS18bJTadBupSYFAp?si=cRaoSfOuSCyNlm6Lt7G1pA",
+            support: "Spotify"
+        },
+        {
+            link:"https://music.apple.com/us/album/bday-deluxe-edition/261707051", support:"Apple Music"},
+        {
+            link: "https://deezer.page.link/X6ZG45NvUPjMZtcTA",
+            support: "Deezer"},
+        {
+            link: "https://tidal.com/browse/album/3347090",
+            support: "Tidal"
+        },
     ],
 
     trackListing: [
@@ -520,23 +1175,32 @@ let beyoncediscography = [
     ],
   },
 
-  /* ----------------------------------1. Dangerously In Love -------------------------------------- */
+  /* --------------------------1. Dangerously In Love -------------------------- */
   {
     albumName: "Dangerously In Love",
     releaseYear: 2003,
-    albumCover:
-      "C:UsersselimOneDriveBureauBecodeCollectionassetsimagespicsDangerously_In_Love_Album(2003).png",
-    albumLength: 3652,
+    albumCover: "assets/images/pics/Dangerously_In_Love_Album(2003).png",
+    albumLength: "",
 
-    albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y?si=2jrsYUQDS4qBDbw0M0oDpQ",
-        applemusicLink:
-          "https://music.apple.com/us/album/dangerously-in-love/201274359",
-        deezerLink: "https://deezer.page.link/zExiHjNGNLPZvxrc7",
-        tidalLink: "https://tidal.com/browse/album/1765857",
-      },
+    albumLinks:
+    [
+        {
+            link: "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y?si=2jrsYUQDS4qBDbw0M0oDpQ",
+            support: "Spotify"
+        },
+
+        {
+            link: "https://music.apple.com/us/album/dangerously-in-love/201274359",
+            support: "Apple Music"
+        },
+        {
+            link: "https://deezer.page.link/zExiHjNGNLPZvxrc7",
+            support: "Deezer"
+        },
+        {
+            link: "https://tidal.com/browse/album/1765857",
+            support: "Tidal"
+        },
     ],
 
     trackListing: [
@@ -624,92 +1288,83 @@ let beyoncediscography = [
 /*RESSOURCE TEMPLATE Strings/literals ==> https://wesbos.com/template-strings-html/ 
 https://www.learn-codes.net/javascript/how-to-render-array-of-object-in-html-element-using-javascript-using-map-functio/*/
 
-let collection = beyoncediscography
-  .map((album) => {
-    `
-<section class="discography__album">
-<div class="album__header">
-<img class = "album__cover" src="${album.albumCover}" alt="${album.albumName}"></img>
-<div class="album__informations"></div>
-<h2 class ="album__title">${album.albumName}</h2>`;
+const discography = document.getElementById("Beediscography");
 
-    let links = `
-<ul class="album__links">
-${albumLinks
-  .map(
-    (link) => `
-    <li class ="album__link"><a href="${album__links.spotifyLink}" alt="Spotify"></a></li>
-    <li class ="album__link"><a href="${album__links.appleMusicLink}" alt="appleMusic"></a></li>
-    <li class ="album__link"><a href="${album__links.deezerLink}" alt ="Deezer"></a></li>
-    <li class ="album__link"><a href="${album__links.tidalLink}" alt="Tidal"></a></li>
-    `
-  )
-  .join("")}
-</ul>`;
+let collection = beyoncediscography.map((album) =>
+      /*Méthode classique :
+      let newSection = document.createElement("section");
+    newSection.setAttribute("class", "discography__album");
+    newSection.append("main");
+    let mainDiv = document.createElement("div");
+    mainDiv.setAttribute("class", "album__header");
+    mainDiv.append(newSection);
+    let albumCover = document.createElement("img");
+    albumCover.setAttribute
+    return newSection;*/
 
-    $links;
-    `
-</div>
-</header>
+    /*Template Literals/Template strings: */
+       //*----------------- création de la section qui contient toutes les données de l'album ---------------*/
+          //*------------------ entête album (image + titre) ---------------*/
+      `<section class="discography__album">
+            <div class="album__header">
+                <img class = "album__cover" src="${album.albumCover}" alt="${album.albumName}"></img>
+  
+                <div class="album__informations"></div>
+                    <h2 class ="album__title">${album.albumName}</h2>
 
-`;
-  })
-  .join("");
+                    <ul class="album__links">
+                        ${album.albumLinks.map((link) =>
+                        `
+                        <li class ="album__link"><a href="${link.Link}" alt="${link.support}">Listen</a></li>
+                        `
+                        ).join("")}
 
-/*albumLinks de beyoncediscography: 
-      albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y?si=2jrsYUQDS4qBDbw0M0oDpQ",
-        applemusicLink:
-          "https://music.apple.com/us/album/dangerously-in-love/201274359",
-        deezerLink: "https://deezer.page.link/zExiHjNGNLPZvxrc7",
-        tidalLink: "https://tidal.com/browse/album/1765857",
-      },
-    ],*/
-/* ----------------------------------BOUCLE --------------------------------- */
-let discography = document.querySelector("#Beediscography");
-document.body.innerHTML = collection;
+                    </ul>
+                </div>
+            </header>
 
-/*    albumLinks: [
-      {
-        spotifyLink:
-          "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y?si=2jrsYUQDS4qBDbw0M0oDpQ",
-        applemusicLink:
-          "https://music.apple.com/us/album/dangerously-in-love/201274359",
-        deezerLink: "https://deezer.page.link/zExiHjNGNLPZvxrc7",
-        tidalLink: "https://tidal.com/browse/album/1765857",
-      },
-    ],
-*/
-/*test a petite échelle :
+            <ul class="tracklist">
+                ${album.trackListing.map((song) =>
+                `
+                <li class="tracklist__song">
+                    <h3 class="song__name">${song.trackTitle}</h3>
+                    <p class="song__featuring">${song.trackFeaturing}</p>
+                    <p class="song__time">${song.trackTiming}</p>
+                </li>
+                `
+                ).join("")}
+            </ul>
+        <footer class="album__footer">${album.albumLength}</footer>
+        </section>
+        `
+        ).join("");
 
-let discography = [
+discography.innerHTML = collection;
 
+/*let discography = [
   {
     albumName: "4",
     releaseYear: 2011,
     albumProducer: "Matthew Knowles",
   },
-  { 
+  {
     albumName: "Beyoncé",
     releaseYear: 2013,
     albumProducer: "Matthew Knowles",
   },
-    { 
+  {
     albumName: "Lemonade",
     releaseYear: 2016,
     albumProducer: "Matthew Knowles",
   },
-
-  ];
-
+];
 
 let collection = `
-<ul class="albums"> ${discography.map(album => `${album.albumName} was released in ${album.releaseYear} `).join('')} </ul>`;
+<ul class="albums"> ${discography
+  .map((album) => `${album.albumName} was released in ${album.releaseYear} `)
+  .join("")} </ul>`;
 
-console.log(collection);
-*/
+console.log(collection);*/
 
 /*
 $.each(beyoncediscography, function(key, value) {

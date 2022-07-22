@@ -12,41 +12,42 @@
     />
     <meta name="generator" content="Visual Studio Code" />
     <!----------------------------------Stylesheets--------------------------------------->
-    <link
-      rel="stylesheet"
-      type="text/css"
-      media="screen"
-      href="assets/styles/main.css"
-    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Cormorant+SC:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,900&family=Poppins:ital,wght@0,200;0,300;0,600;0,800;1,200;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"type="text/css"media="screen"href="assets/styles/main.css"/>
 
     <title>Beyonce Discography</title>
     <script defer src="\assets\js\script.js"></script>
+    <!-- le "defer" doit figuré si le script est placé dans le head -->
   </head>
 
   <body>
-  <!----------------------------------- Header ----------------------------------->
-    <header class="header">
-    <!--<div class="header__image"> -->
-        <img class="header__image"
-        src="C:\Users\selim\OneDrive\Bureau\Becode\Collection\assets\images\pics\beyonce-renaissance-numero-magazine.png" alt="Renaissance">
-    <!--</div>-->
-        <div class="header__content">
-            <h1 class="header__title"></h1>
+    <!----------------------------------- Header ----------------------------------->
 
-            <p class="header__p">
-            Here you will find Queen Bee's solo discography from Dangerously In Love
-            until the upcoming 2022 studio record "Renaissance".
-            </p>
-        </div>
+    <header class="header">
+      <!--<div class="header__image"> -->
+      <img class="header__image" src="assets/images/pics/beyonce-renaissance-numero-magazine.png" alt="Renaissance"/>
+
+
+      <!--</div>-->
+      <div class="header__content">
+        <h1 class="header__title"></h1>
+
+        <p class="header__p">
+          Here you will find Queen Bee's solo discography from Dangerously In
+          Love until the upcoming 2022 studio record "Renaissance".
+        </p>
+      </div>
     </header>
 
-  <!----------------------------------- Main content ----------------------------------->
+    <!----------------------------------- Main content ----------------------------------->
 
     <main id="Beediscography" class="discography">
-
-                    <!------------------ Dangerously in love -------------------->
+      <!------------------ Dangerously in love -------------------------
         <section class="discography__album">
-                    <!------------------ DIL Header --------------->
+                     --------------DIL Header ---------------
             <div class="album__header">
                 <img class = "album__cover" src="C:\Users\selim\OneDrive\Bureau\Becode\Collection\assets\images\pics\Dangerously_In_Love_Album(2003).png" alt="Dangerously in Love"></img>
                 
@@ -61,7 +62,7 @@
                 </div>
             </header>
 
-                 <!------------------ DIL Tracklist --------------->
+                 ------------------ DIL Tracklist ---------------
             <ul class="tracklist">
                 <li class="tracklist__song">
                     <h3 class="song__name">Crazy in love</h3>
@@ -71,7 +72,7 @@
 
             </ul>
             <footer class="album__footer">3652</footer>
-        </section>
+        </section>-------------------->
     </main>
 
     <footer class="footer">Renseignements</footer>
