@@ -1,5 +1,23 @@
 
-$font-main: Coppins;
-$font-second: Cormorant;
+$font-main: Poppins, sans-serif;
+$font-title: Cormorant;
+$font-intro: MuseoModerno;
 
+
+
+
+// Weights
+$xtra-light: 100;
+$thin-weight:     200;
+$light-weight:    300;
+$normal-weight:   400;
+$medium-weight:   500;
+$semibold-weight: 600;
+$bold-weight:     700;
+$xbold-weight:    800;
+$black-weight:    900;
+
+// Synonyms
+$regular-weight:    $normal-weight;
+$heavy-weight:      $xbold-weight;
 

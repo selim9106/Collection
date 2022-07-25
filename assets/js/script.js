@@ -8,19 +8,19 @@ let beyoncediscography = [
     
         albumLinks: [
           {
-            Link: "https://shop.spotify.com/fr/artist/6vWDO969PvNqNYHIOW5v0m/product/renaissance-digital-album?utm_medium=app&utm_source=spotify&utm_term=00a46600583999e3587503d26b51d8e45eec5401e98f61b772f147",
+            link: "https://shop.spotify.com/fr/artist/6vWDO969PvNqNYHIOW5v0m/product/renaissance-digital-album?utm_medium=app&utm_source=spotify&utm_term=00a46600583999e3587503d26b51d8e45eec5401e98f61b772f147",
             support: "Spotify",
           },
           {
-            Link: "https://music.apple.com/us/album/renaissance/1630005298",
+            link: "https://music.apple.com/us/album/renaissance/1630005298",
             support: "Apple Music",
           },
           { 
-            Link: "https://www.deezer.com/fr/album/337778727",
+            link: "https://www.deezer.com/fr/album/337778727",
             support: "Deezer"
             },
           { 
-            Link: "https://tidal.com/browse/album/238806276",
+            link: "https://tidal.com/browse/album/238806276",
             support: "Tidal"
             },
         ],
@@ -112,26 +112,26 @@ let beyoncediscography = [
              /* ------------------------9. The Lion King ------------------------ */
 
   {
-    albumName: "The Lion King: The Gift (Deluxe Edition)",
+    albumName: "The Lion King&#8239;: The&nbsp;Gift (Deluxe&nbsp;Edition)",
     releaseYear: 2020,
     albumCover: "/assets/images/pics/R-17627503-1614524714-5452.jpg",
     albumLength: "",
 
     albumLinks: [
       {
-        Link: "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ?si=0XiTgMA9RlKlcwvL2Rg9mw",
+        link: "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ?si=0XiTgMA9RlKlcwvL2Rg9mw",
         support: "Spotify",
       },
       {
-        Link: "https://music.apple.com/us/album/the-lion-king-the-gift-deluxe-edition/1525559064",
+        link: "https://music.apple.com/us/album/the-lion-king-the-gift-deluxe-edition/1525559064",
         support: "Apple Music",
       },
       { 
-        Link: "https://deezer.page.link/NaKiejSk2EjqB4qv5",
+        link: "https://deezer.page.link/NaKiejSk2EjqB4qv5",
         support: "Deezer"
         },
       { 
-        Link: "https://tidal.com/browse/album/150379405",
+        link: "https://tidal.com/browse/album/150379405",
         support: "Tidal"
         },
     ],
@@ -228,18 +228,18 @@ let beyoncediscography = [
               /* ------------------------8. Homecoming ------------------------ */
 
   {
-    albumName: "Homecoming: The Live Album",
+    albumName: "Homecoming&#8239;: The&nbsp;Live Album",
     releaseYear: 2019,
     albumCover: "/assets/images/pics/550x550.jpg",
     albumLength: "",
 
     albumLinks: [
       {
-        Link: "hhttps://open.spotify.com/album/35S1JCj5paIfElT2GODl6x?si=7a2nZsoOT6CdRKndUL2iRA",
+        link: "hhttps://open.spotify.com/album/35S1JCj5paIfElT2GODl6x?si=7a2nZsoOT6CdRKndUL2iRA",
         support: "Spotify",
       },
       {
-        Link: "https://music.apple.com/us/album/homecoming-the-live-album/1459930448",
+        link: "https://music.apple.com/us/album/homecoming-the-live-album/1459930448",
         support: "Apple Music",
       },
       { 
@@ -247,7 +247,7 @@ let beyoncediscography = [
         support: "Deezer"
         },
       { 
-        Link: "https://tidal.com/browse/album/107780086",
+        link: "https://tidal.com/browse/album/107780086",
         support: "Tidal"
         },
     ],
@@ -466,19 +466,19 @@ let beyoncediscography = [
 
     albumLinks: [
       {
-        Link: "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF?si=sTkzN8GZRMumkIR51JLycQ",
+        link: "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF?si=sTkzN8GZRMumkIR51JLycQ",
         support: "Spotify",
       },
       {
-        Link: "https://music.apple.com/us/album/lemonade/1460430561",
+        link: "https://music.apple.com/us/album/lemonade/1460430561",
         support: "Apple Music",
       },
       { 
-        Link: "https://deezer.page.link/e5jyQ7HDv4ynqFpE7",
+        link: "https://deezer.page.link/e5jyQ7HDv4ynqFpE7",
         support: "Deezer"
         },
       { 
-        Link: "https://tidal.com/browse/album/597278563",
+        link: "https://tidal.com/browse/album/597278563",
         support: "Tidal"
         },
     ],
@@ -555,26 +555,26 @@ let beyoncediscography = [
       /* ------------------------6. Beyoncé (Platinum Edition) ------------------------ */
 
   {
-    albumName: "Beyoncé (Platinum Edition)",
+    albumName: "Beyoncé (Platinum&nbsp;Edition)",
     releaseYear: 2013,
     albumCover: "/assets/images/pics/BeyoncéPlatinumEditionCover.png",
     albumLength: "",
 
     albumLinks: [
       {
-        Link: "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu?si=G6dWDMJQSUSkmr9R8fZBHQ",
+        link: "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu?si=G6dWDMJQSUSkmr9R8fZBHQ",
         support: "Spotify",
       },
       {
-        Link: "https://music.apple.com/us/album/beyonc%C3%A9-platinum-edition/939775882",
+        link: "https://music.apple.com/us/album/beyonc%C3%A9-platinum-edition/939775882",
         support: "Apple Music",
       },
       { 
-        Link: "https://deezer.page.link/S4vUe51VC5pQTGLa7",
+        link: "https://deezer.page.link/S4vUe51VC5pQTGLa7",
         support: "Deezer"
         },
       { 
-        Link: "https://tidal.com/browse/track/37936033",
+        link: "https://tidal.com/browse/track/37936033",
         support: "Tidal"
         },
     ],
@@ -692,19 +692,19 @@ let beyoncediscography = [
 
     albumLinks: [
       {
-        Link: "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe?si=1_-U5v25Ts2v3hwXlLehEg",
+        link: "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe?si=1_-U5v25Ts2v3hwXlLehEg",
         support: "Spotify",
       },
       {
-        Link: "https://music.apple.com/us/album/4-expanded-edition/626204707",
+        link: "https://music.apple.com/us/album/4-expanded-edition/626204707",
         support: "Apple Music",
       },
       { 
-        Link: "https://deezer.page.link/2p1Je4D1UtrUSL7p8",
+        link: "https://deezer.page.link/2p1Je4D1UtrUSL7p8",
         support: "Deezer"
         },
       { 
-        Link: "https://tidal.com/browse/album/13280448",
+        link: "https://tidal.com/browse/album/13280448",
         support: "Tidal"
         },
     ],
@@ -785,7 +785,7 @@ let beyoncediscography = [
   /* ------------------------4. I Am... Wolrd Tour ------------------------ */
 
   {
-    albumName: "I Am... Wolrd Tour",
+    albumName: "I&nbsp;Am... World Tour",
     releaseYear: 2010,
     albumCover: "assets/images/pics/716k8snaESL._SL1500_.jpg",
     albumLength: "",
@@ -941,7 +941,7 @@ let beyoncediscography = [
   /* -----------------------3. I am ... Sasha Fierce ----------------------------- */
 
   {
-    albumName: "I Am ... Sasha Fierce (Platinum Edition)",
+    albumName: "I&nbsp;Am... Sasha&nbsp;Fierce (Platinum Edition)",
     releaseYear: 2008,
     albumCover: "/assets/images/pics/1200x1200.jpg",
     albumLength: "",
@@ -1288,7 +1288,7 @@ let beyoncediscography = [
 /*RESSOURCE TEMPLATE Strings/literals ==> https://wesbos.com/template-strings-html/ 
 https://www.learn-codes.net/javascript/how-to-render-array-of-object-in-html-element-using-javascript-using-map-functio/*/
 
-const discography = document.getElementById("Beediscography");
+const discography = document.querySelector(".discography");
 
 let collection = beyoncediscography.map((album) =>
       /*Méthode classique :
@@ -1305,25 +1305,25 @@ let collection = beyoncediscography.map((album) =>
     /*Template Literals/Template strings: */
        //*----------------- création de la section qui contient toutes les données de l'album ---------------*/
           //*------------------ entête album (image + titre) ---------------*/
-      `<section class="discography__album">
+      `<section class="album">
             <div class="album__header">
                 <img class = "album__cover" src="${album.albumCover}" alt="${album.albumName}"></img>
   
-                <div class="album__informations"></div>
+                <div class="album__informations">
                     <h2 class ="album__title">${album.albumName}</h2>
 
                     <ul class="album__links">
                         ${album.albumLinks.map((link) =>
                         `
-                        <li class ="album__link"><a href="${link.Link}" alt="${link.support}">Listen</a></li>
+                        <li class ="album__links__items"><a href="${link.Link}" alt="${link.support}">Listen</a></li>
                         `
                         ).join("")}
 
                     </ul>
                 </div>
-            </header>
+            </div>
 
-            <ul class="tracklist">
+            <ul class="album__tracklist">
                 ${album.trackListing.map((song) =>
                 `
                 <li class="tracklist__song">
