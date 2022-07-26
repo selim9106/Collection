@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Tidal">
+        <g transform="matrix(0.156408,0,0,0.156408,-9.46025,-9.5428)">
+            <g id="Calque1">
+                <circle cx="540" cy="540.528" r="479.516" style="fill:rgb(235,235,235);"/>
+            </g>
+        </g>
+        <g id="Tidal1" serif:id="Tidal">
+            <g transform="matrix(3.98851,0,0,3.98851,27.1379,7.63933)">
+                <path d="M12.012,3.992L8.008,7.996L4.004,3.992L0,7.996L4.004,12L8.008,7.996L12.012,12L8.008,16.004L12.012,20.008L16.016,16.004L12.012,12L16.016,7.996L12.012,3.992ZM16.042,7.996L20.021,4.017L24,7.996L20.021,11.975L16.042,7.996Z" style="fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(0.395862,0,0,0.395862,10.5785,66.9967)">
+                <text x="21.597px" y="123.546px" style="font-family:'KeepCalm-Medium', 'Keep Calm';font-weight:500;font-size:60.627px;stroke:black;stroke-width:2.53px;">T<tspan x="82.164px 121.875px 189.413px 264.409px " y="123.546px 123.546px 123.546px 123.546px ">IDAL</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>

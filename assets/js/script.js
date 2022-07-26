@@ -1315,7 +1315,7 @@ let collection = beyoncediscography.map((album) =>
                     <ul class="album__links">
                         ${album.albumLinks.map((link) =>
                         `
-                        <li class ="album__links__items"><a href="${link.Link}" alt="${link.support}">Listen</a></li>
+                        <li class ="album__links__items"><a href="${link.Link}" alt="${link.support}"></a></li>
                         `
                         ).join("")}
 
@@ -1340,6 +1340,26 @@ let collection = beyoncediscography.map((album) =>
         ).join("");
 
 discography.innerHTML = collection;
+
+//let plateformLinks = document.querySelectorAll(".album__links");
+let spotifyLinks = document.querySelectorAll("a[alt='Spotify']");
+spotifyLinks.forEach(function(icon) {
+  icon.setAttribute("class", "spotify");
+});
+
+let appleLinks = document.querySelectorAll("a[alt='Apple Music']");
+appleLinks.forEach(function(icon) {
+  icon.setAttribute("class", "applemusic");
+}); 
+
+let deezerLinks = document.querySelectorAll("a[alt='Deezer']");
+deezerLinks.forEach(function(icon) {
+  icon.setAttribute("class", "deezer");
+}); 
+let tidalLinks = document.querySelectorAll("a[alt='Tidal']");
+tidalLinks.forEach(function(icon) {
+  icon.setAttribute("class", "tidal");
+}); 
 
 /*let discography = [
   {

@@ -29,11 +29,10 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  position: absolute;
-  flex-wrap: wrap;
   position: relative;
+  flex-wrap: wrap;
   margin: 7rem;
-  height: 240px;
+  height: 24rem;
   border: 5px solid wheat;
   box-sizing: content-box;
   max-width: 85%;
@@ -44,6 +43,7 @@ body {
     width: 30rem;
     box-sizing: content-box;
     height: 100%;
+    //border: 2px solid silver;
 
   };
   &__content {
@@ -51,9 +51,9 @@ body {
     flex: 3;
     flex-direction: column;
     justify-content: center;
-    border: 2px solid red;
     background-color: $colorsecond;
-    padding: 2rem;
+    padding: 2rem 3rem 2rem 0rem;
+    //border: 2px solid red;
 
   };
 
@@ -62,14 +62,16 @@ body {
     font-family: $font-title;
     font-weight: 600;
     margin-bottom: 1.3rem;
+    padding-left: 2rem;
+    //border: 2px solid green;
   }
   &__p {
     font-family: $font-intro;
     font-size: 23px;
     color: $colormain;
-    border: 2px solid yellow;
     line-height: 3rem;
     padding: 1rem;
+    //border: 2px solid yellow;
 
     .italic {
       font-style: italic;
@@ -96,49 +98,63 @@ flex-wrap: wrap;
 flex: auto;
 justify-content: space-around;
 align-items: flex-start;
-
 background-color: $colorsecond;
-margin: 20px;
+position: relative;
+margin: 10px 20px 10px 20px;
 padding: 20px;
-border: 4px solid pink;
 width: 90%;
+//border: 4px solid pink;
 
 .album {
   display: flex; 
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  border: 2px solid yellowgreen;
+  position: relative;
+  border-radius: 3rem;
   width: 48%;
-  margin: 0.4rem;
+  margin: 0rem 1rem 3rem 1rem;
+  padding: 2rem;
+  background: rgb(215,189,111);
+  background: linear-gradient(0deg, rgb(199, 167, 70) 0%, rgb(243, 240, 193) 100%);
+  filter: drop-shadow(0.18rem 0.2rem 0.1rem rgb(255, 239, 179));
+  //border: 2px solid yellowgreen;
+
+  &:hover {
+
+    box-shadow: 0.1rem 0.1rem 0.8rem rgba(255, 254, 248, 0.651);
+  };
   
   &__header {
     display:flex;
     flex-direction: row;
     justify-content: flex-start;
-    flex-wrap:nowrap;
-    align-items: center;
-
-    border: 2px solid violet;
+    flex-wrap:wrap;
+    align-items: flex-end;
     width: 100%;
-    padding: 1rem;
-    margin: 0rem 1rem 0rem 1rem;
+    height:fit-content;
+    //margin: 0rem 1rem 0rem 1rem;
+    //border: 2px solid violet;
 
 
   };
   &__cover {
-
+    flex: auto;
     max-width: 200px;
-    max-height: 200px;
+    height: auto;
     margin: 1rem 2.4rem 1rem 1rem;
+    filter: drop-shadow(0.4rem 0.3rem 0.4rem rgba(27, 9, 2, 0.5));
   };
 
   &__informations {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    border: 2px solid rgb(254, 8, 8);
-    height:90%;
+    //justify-content: space-around;
+    flex: auto;
+    height:100%;
+    width: fit-content;
+    margin-bottom: 1rem;
+    //border: 2px solid rgb(254, 8, 8);
     //margin-top: 3rem;
 
 
@@ -146,30 +162,111 @@ width: 90%;
   };
   &__title {
     font-size: 40px;
+    line-height: 4rem;
     font-family: $font-main;
     font-weight: $semibold-weight;
-    border: 2px solid gold;
+    color: $colorsecond;
+    padding: 0rem, 1rem, 3rem, 0rem;
+    margin-bottom: 0.3rem;
+    width: min-content;
+    //border: 2px solid rgb(0, 200, 255);
     
   };
 
   &__links {
     display: flex;
     flex-direction: row;
-    margin: 2rem 1rem 1rem 0rem;
+    width: fit-content;
+    margin: 1rem 1rem 1rem 0rem;
+    //border: 3px solid rgb(51, 118, 6);
 
     &__items {
       display: block;
+      list-style-type: none;
+      align-items: center;
+      min-width: 40px;
+      min-height: 40px;
       margin: 0 1rem 0 1rem;
-      min-height: 20px;
-      border: 2px solid blue;
-      padding: 1rem;
+      //border: 2px solid blue;
+      a {
+        display:block;
+        width: 100%;
+        height: 100%;
+        background-repeat: $background-repeat;
+        background-size: contain;
+        filter: drop-shadow(0.24rem 0.2rem 0.24rem rgba(0, 0, 0, 0.5));
 
-    }
-  }
+      };
+      a:hover {
+        @extend a;
+        filter: drop-shadow(0.02rem 0.02rem 0.3rem rgb(255, 255, 255));
+      }
+      a.spotify {
+        @extend a;
+        background-image: url("/assets/images/icons/spotify.svg");
+      };
+      a.applemusic {
+        @extend a;
+        background-image: url("/assets/images/icons/applemusic.svg");
+      };
+      a.deezer {
+        @extend a;
+        background-image: url("/assets/images/icons/deezer.svg");
+      };
+        a.tidal {
+        @extend a;
+        background-image: url("/assets/images/icons/tidal.svg");
+      };
 
 
+    };
+  };
+
+&__tracklist {
+  display: flex;
+  flex-direction: column;
+  justify-content:flex-start;
+  align-items: flex-start;
+  flex-wrap:  nowrap;
+  width: 100%;
+  padding: 2rem;
+  max-height: 300px;
+  overflow-y: scroll;
+  //border: 2px solid red;
+
+  &::-webkit-scrollbar {
+    width: 20px;
+  };
+  &::-webkit-scrollbar-track {
+    background-color: rgba(101, 55, 27, 0.568);
+    border-radius: 10px;
+  };
+  &::-webkit-scrollbar-thumb {
+    background-color:#c1842fc0;
+    box-shadow: inset 0 0 10px rgba(255, 219, 166, 0.642);
+    border-radius: 10px;
+  };
+
+  .tracklist__song {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 2rem;
+    //border: 1px solid rgb(15, 128, 0);
+    width: 100%;
+
+    &__name {
+      font-family: $font-main;
+      color: black;
+    };
+  };
+
+};
 
 
+};
 
-}
-}
+
+};
